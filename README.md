@@ -6,7 +6,25 @@ standard NLP metrics such as BLEU. The project is structured to be clear, extens
 aligned with good software engineering practices.
 
 ---
+## À propos du projet
 
+Ce dépôt fait partie du cours **Big Data and Business Intelligence (BIDABI)**.  
+Il a pour objectif d’initier les étudiants au travail avec du code open‑source et à l’adaptation de projets
+existants dans une structure professionnelle.
+
+Dans ce projet, les étudiants intègrent un pipeline de traduction automatique (NLP) basé sur un modèle
+HuggingFace, comprenant le chargement des données, la traduction, le post‑traitement et l’évaluation
+(BLEU). Ils apprennent à :
+
+- analyser et comprendre un projet open‑source existant,
+- réorganiser et intégrer ce code dans un template Cookiecutter,
+- structurer un pipeline de traitement de données selon les bonnes pratiques,
+- préparer un environnement reproductible et adapté aux workflows Big Data.
+
+Ce projet constitue une première immersion dans l’ingénierie des pipelines de données et dans les
+méthodologies utilisées dans les systèmes Big Data modernes.
+
+---
 ## 📌 Project Overview
 
 The goal of this project is to implement a complete translation workflow, including:
@@ -85,7 +103,7 @@ By working with this project, students will practice:
 ## 🧩 Assignment Instructions
 You must use this repository as the source code for your assignment:
 
-👉 https://github.com/delnouty/bidabi-project-03.git (github.com in Bing)
+👉 https://github.com/delnouty/bidabi-clone-adapt-translate.git (github.com in Bing)
 
 Your task is to:
 
